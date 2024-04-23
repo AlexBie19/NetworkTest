@@ -51,7 +51,7 @@
               "RelativeDocumentMoniker": "NetworkTest\\server.cpp",
               "ToolTip": "C:\\Users\\Anwender\\source\\repos\\NetworkTest\\NetworkTest\\server.cpp",
               "RelativeToolTip": "NetworkTest\\server.cpp",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAMwHQAAAAiAAAA",
+              "ViewState": "AQIAAGoBAAAAAAAAAAAMwHQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-22T16:21:16.546Z",
               "EditorCaption": ""
@@ -66,8 +66,7 @@
               "RelativeToolTip": "NetworkTest\\client.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-22T16:21:12.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T16:21:12.445Z"
             }
           ]
         }
