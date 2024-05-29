@@ -1,1 +1,29 @@
-﻿
+﻿  Network.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\concepts(12): warning STL4038: The contents of <concepts> are available only with C++20 concepts support.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\any(12): warning STL4038: The contents of <any> are available only with C++17 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\variant(12): warning STL4038: The contents of <variant> are available only with C++17 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\charconv(12): warning STL4038: The contents of <charconv> are available only with C++17 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\string_view(12): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\span(12): warning STL4038: The contents of <span> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ranges(11): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\bit(11): warning STL4038: The contents of <bit> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\numbers(11): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Anwender\source\repos\NetworkTest\NetworkTest\Network.cpp(169,50): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\concepts(12): warning STL4038: The contents of <concepts> are available only with C++20 concepts support.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\any(12): warning STL4038: The contents of <any> are available only with C++17 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\compare(12): warning STL4038: The contents of <compare> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\variant(12): warning STL4038: The contents of <variant> are available only with C++17 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\charconv(12): warning STL4038: The contents of <charconv> are available only with C++17 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\string_view(12): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\span(12): warning STL4038: The contents of <span> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ranges(11): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\bit(11): warning STL4038: The contents of <bit> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\numbers(11): warning STL4038: The contents of <numbers> are available only with C++20 or later.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  Code wird generiert...
+  NetworkTest.vcxproj -> C:\Users\Anwender\source\repos\NetworkTest\x64\Debug\NetworkTest.exe

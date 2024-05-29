@@ -131,22 +131,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CAddress.cpp" />
-    <ClCompile Include="CClient.cpp" />
     <ClCompile Include="client.cpp" />
-    <ClCompile Include="CPackets.cpp" />
-    <ClCompile Include="CServer.cpp" />
-    <ClCompile Include="CSockets.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Network.cpp" />
     <ClCompile Include="SaveFile.cpp" />
     <ClCompile Include="server.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CAddress.h" />
-    <ClInclude Include="CClient.h" />
-    <ClInclude Include="CPackets.h" />
-    <ClInclude Include="CServer.h" />
-    <ClInclude Include="CSockets.h" />
+    <ClInclude Include="Network.h" />
     <ClInclude Include="Odin.h" />
+    <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="shell.bat" />

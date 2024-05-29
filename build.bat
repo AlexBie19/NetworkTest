@@ -14,7 +14,7 @@ cd build
 :: WX - treat warnings as errors
 :: OPT:REF - eliminate functions which are never referenced
 :: SUBSYSTEM - environment for executable
-cl /nologo /MT /Z7 /Gm- /GR- /EHs- /EHa- /Od /Oi /FC /W4 /WX ..\NetworkTest\server.cpp /link /OPT:REF /SUBSYSTEM:CONSOLE ws2_32.lib winmm.lib
-cl /nologo /MT /Z7 /Gm- /GR- /EHs- /EHa- /Od /Oi /FC /W4 /WX ..\NetworkTest\client.cpp /link /OPT:REF /SUBSYSTEM:CONSOLE ws2_32.lib winmm.lib
+cl /nologo /MT /Z7 /Gm- /GR- /EHs- /EHa- /Od /Oi /FC /W4 /WX ..\NetworkTest\main.cpp /link /OPT:REF /SUBSYSTEM:CONSOLE ws2_32.lib winmm.lib
+::cl /nologo /MT /Z7 /Gm- /GR- /EHs- /EHa- /Od /Oi /FC /W4 /WX ..\NetworkTest\client.cpp /link /OPT:REF /SUBSYSTEM:CONSOLE ws2_32.lib winmm.lib
 
 cd ..

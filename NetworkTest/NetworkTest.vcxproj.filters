@@ -15,28 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CClient.cpp">
-      <Filter>Quelldateien</Filter>
-    </ClCompile>
-    <ClCompile Include="CServer.cpp">
-      <Filter>Quelldateien</Filter>
-    </ClCompile>
-    <ClCompile Include="CSockets.cpp">
-      <Filter>Quelldateien</Filter>
-    </ClCompile>
-    <ClCompile Include="CPackets.cpp">
-      <Filter>Quelldateien</Filter>
-    </ClCompile>
-    <ClCompile Include="CAddress.cpp">
-      <Filter>Quelldateien</Filter>
-    </ClCompile>
     <ClCompile Include="SaveFile.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="client.cpp">
+    <ClCompile Include="server.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="server.cpp">
+    <ClCompile Include="Network.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="client.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
@@ -44,19 +35,10 @@
     <ClInclude Include="Odin.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="CClient.h">
+    <ClInclude Include="Network.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="CSockets.h">
-      <Filter>Headerdateien</Filter>
-    </ClInclude>
-    <ClInclude Include="CPackets.h">
-      <Filter>Headerdateien</Filter>
-    </ClInclude>
-    <ClInclude Include="CAddress.h">
-      <Filter>Headerdateien</Filter>
-    </ClInclude>
-    <ClInclude Include="CServer.h">
+    <ClInclude Include="pch.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
